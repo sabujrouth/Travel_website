@@ -348,6 +348,7 @@ section {
 
 .shop .slide {
   border: 0.2rem solid #10221b;
+  border-radius: 5px;
 }
 
 .shop .slide:hover .image .icons {
